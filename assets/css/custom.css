@@ -87,7 +87,14 @@ footer{
 #skills .heading:after{
 	background-color: #fff;
 }
-
+#carouselCompanies .card-text{
+	min-height: 250px;
+}
+.custom-navs a{
+	background: #ffffff;
+    color: #ff9708;
+    border-color: #ffffff;
+}
 @media only screen and (min-width: 0px) and (max-width: 770px) {
 	.port-item {
 		padding: 10px 10px !important;
